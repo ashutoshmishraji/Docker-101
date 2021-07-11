@@ -1,6 +1,8 @@
 Practice 
 https://training.play-with-docker.com/
 
+https://www.docker.com/birthday
+
 tutorial 
 https://github.com/docker/labs/tree/master/beginner
 
